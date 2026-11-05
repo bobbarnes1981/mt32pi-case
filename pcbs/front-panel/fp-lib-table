@@ -1,6 +1,6 @@
 (fp_lib_table
   (version 7)
-  (lib (name "mt32")(type "KiCad")(uri "/home/robert/Source/mt32pi-case/pcbs/extras/MT32/mt32.pretty")(options "")(descr ""))
-  (lib (name "Button_Switch_Keyboard")(type "KiCad")(uri "/home/robert/Source/mt32pi-case/pcbs/extras/kicad-libraries/Button_Switch_Keyboard.pretty")(options "")(descr ""))
-  (lib (name "libraries")(type "KiCad")(uri "/home/robert/Source/mt32pi-case/pcbs/extras/zynthian/footprints")(options "")(descr ""))
+  (lib (name "mt32")(type "KiCad")(uri "${KIPRJMOD}/../extras/MT32/mt32.pretty")(options "")(descr ""))
+  (lib (name "Button_Switch_Keyboard")(type "KiCad")(uri "${KIPRJMOD}/../extras/kicad-libraries/Button_Switch_Keyboard.pretty")(options "")(descr ""))
+  (lib (name "libraries")(type "KiCad")(uri "${KIPRJMOD}/../extras/zynthian/footprints")(options "")(descr ""))
 )
